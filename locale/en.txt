@@ -1,0 +1,61 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Rain Country Resorts - Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27.label = Rain Country
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_0.label = IMG_0463
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_1.label = A 015 panorama
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_2.label = A 020
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_3.label = DSCF0038
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_4.label = DSCF0207
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_5.label = DSCF0308
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_6.label = DSCF1149 EDIT
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_7.label = DSCF1156 EDIT
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_8.label = DSCF1171 Panorama
+album_A36DEAE2_AC18_E6DC_41CA_BC691A4D1B27_9.label = IMG_0026
+panorama_9C328C62_977E_1666_41DB_2F3D037E2816.label = Entrance
+panorama_9D28B066_977E_2E6E_41BF_AD2B54F4574E.label = Cottage Rooms Deluxe
+panorama_9D28CD27_977E_37EE_41DE_25F0BDCFC24A.label = Cottage Room Deluxe
+panorama_9D28FA6C_977E_1262_41D2_C3129E28F4B8.label = Cottage Room Deluxe
+panorama_9D2937C8_977F_F2A2_41DE_63B47D7DE316.label = to Restaurant
+panorama_9D2948A8_977E_3EE2_41C5_C66262433FC5.label = Natural Pool
+panorama_9D2958A3_977E_1EE6_4195_D6BE68314FE2.label = Restaurant
+panorama_9D2B37FB_977E_F266_41BA_9F79840F7F4E.label = Wooden Cottage deluxe
+panorama_9D2B5EFE_977E_125E_41DD_0E2F5984D3D8.label = View Point
+panorama_9D2B62FF_977E_325E_41DE_9E5C11671739.label = Wooden Cottage deluxe
+panorama_9D2B65A7_977E_16EE_41BE_1324988915D4.label = Wooden Cottage deluxe
+panorama_9D2B9A9A_977E_12A6_4166_F11A04661380.label = Lobby
+panorama_9D2BC921_977E_1FE2_41D7_FB26C3533B85.label = Wooden Cottage deluxe
+panorama_9D2BF89A_977E_3EA6_41D2_0B55C5EEDF97.label = Wooden Cottage Rooms - Deluxe
+panorama_9D2E8B80_977E_72A3_41B8_9DDFB41EA0A1.label = Reception
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.raincountryresort.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.raincountryresort.com
